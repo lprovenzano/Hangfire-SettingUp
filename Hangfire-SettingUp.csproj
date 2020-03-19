@@ -14,10 +14,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Jobs.Tier\Jobs.Tier.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
     <Folder Include="Controllers\" />
   </ItemGroup>
 
