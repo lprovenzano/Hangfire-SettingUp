@@ -2,7 +2,7 @@
 using System;
 using System.Threading.Tasks;
 
-namespace Jobs.Tier
+namespace Hangfire_SettingUp
 {
     public class TestJob : ITestJob
     {
